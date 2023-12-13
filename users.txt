@@ -1,0 +1,4 @@
+
+dinushka,99.09.30,examole@example.com,dinushka
+yumin,09/09/22,aaaaaaa,nsbm
+john,25/10/2022,example@example.com,aaaa
